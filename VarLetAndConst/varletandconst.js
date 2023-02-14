@@ -1,4 +1,4 @@
-var let and const
+//var let and const
 
 var x=0
 //can be reassigned
